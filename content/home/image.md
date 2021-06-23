@@ -10,22 +10,22 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
-
-title:
-subtitle:
+weight: 10
+height: 100
+title: 
 
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: bridge.png
     image_darken: 0
     image_parallax: false
     image_position: center
-    image_size: cover
+    image_size: contain
     text_color_light: true
+    height: 10px
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["250px", "0", "20px", "0"]
 advanced:
   css_class: fullscreen
 ---
